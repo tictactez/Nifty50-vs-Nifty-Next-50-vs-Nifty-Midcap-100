@@ -1,6 +1,6 @@
  **A Comparative Evaluation of Nifty Indices**
 
-This study evaluates the long-term performance of three major Indian equity indices using historical daily closing price data spanning 18 years (2007–2025):
+This study evaluates the long-term performance of three major Indian equity indices using historical daily closing price data spanning 13 years (2012–2025):
 - Nifty 50: Represents the float-adjusted market capitalization of the 50 largest companies listed on the National Stock Exchange (NSE).
 - Nifty Next 50: Comprises the next 50 largest companies after those in the Nifty 50, often considered potential future entrants into the Nifty 50.
 - Nifty Midcap 100: Covers companies ranked 101–200 by market capitalization, offering exposure to the midcap segment
