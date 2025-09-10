@@ -7,6 +7,8 @@ Note: While the Nifty Midcap 150 would have been a more comprehensive representa
 
 It is widely believed that companies with smaller market capitalizations tend to offer higher return potential, albeit with greater volatility. To test this hypothesis, we analyze index-level returns across different time horizons
 
+<img width="1691" height="770" alt="image" src="https://github.com/user-attachments/assets/dbb1598c-416b-4554-af24-86cc66d18762" />
+
 1. Point-to-Point Returns (CAGR)
 This method calculates the Compounded Annual Growth Rate between two specific dates. For example:
 - From Jan 1 to Dec 31 of a given year
@@ -34,7 +36,12 @@ This method smooths out short-term noise and reveals the consistency and reliabi
 
 <img width="1693" height="772" alt="image" src="https://github.com/user-attachments/assets/fef46f2e-0111-477f-a236-8afa6ededb62" />
 
-Midcap and Nifty Next 50 indices don’t consistently outperform the Nifty 50. Their periods of outperformance are intermittent and unstable, lacking sustained momentum. At times, they lead, but those gains tend to fade, only to re-emerge later without any predictable pattern
+
+Midcap and Nifty Next 50 indices don’t consistently outperform the Nifty 50. Their periods of outperformance are intermittent and unstable, lacking sustained momentum. At times, they lead, but those gains tend to fade, only to re-emerge later without any predictable pattern.
+
+
+
+
 
 
 
