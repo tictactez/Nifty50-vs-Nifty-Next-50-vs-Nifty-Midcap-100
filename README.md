@@ -1,3 +1,5 @@
+ **A Comparative Evaluation of Nifty Indices**
+
 This study evaluates the long-term performance of three major Indian equity indices using historical daily closing price data spanning 18 years (2007–2025):
 - Nifty 50: Represents the float-adjusted market capitalization of the 50 largest companies listed on the National Stock Exchange (NSE).
 - Nifty Next 50: Comprises the next 50 largest companies after those in the Nifty 50, often considered potential future entrants into the Nifty 50.
@@ -9,7 +11,7 @@ It is widely believed that companies with smaller market capitalizations tend to
 
 <img width="1691" height="770" alt="image" src="https://github.com/user-attachments/assets/dbb1598c-416b-4554-af24-86cc66d18762" />
 
-1. Point-to-Point Returns (CAGR)
+**1. Point-to-Point Returns (CAGR)**
 This method calculates the Compounded Annual Growth Rate between two specific dates. For example:
 - From Jan 1 to Dec 31 of a given year
 - Year-to-date (last 365 days)
@@ -17,7 +19,7 @@ This method calculates the Compounded Annual Growth Rate between two specific da
 While simple and intuitive, this approach is highly sensitive to the chosen time window. A strong or weak performance during the selected period can skew perception, making it unreliable for forecasting future returns.
 
 
-2. Rolling Returns
+**2. Rolling Returns**
 Rolling returns offer a more robust view by calculating CAGR over every possible time window of a fixed duration (e.g., 3 years, 5 years) throughout the dataset. This answers the question:
 “How consistently has the index delivered returns over all possible 3-year (or 5-year) periods?”
 
@@ -39,12 +41,15 @@ This method smooths out short-term noise and reveals the consistency and reliabi
 
 Midcap and Nifty Next 50 indices don’t consistently outperform the Nifty 50. Their periods of outperformance are intermittent and unstable, lacking sustained momentum. At times, they lead, but those gains tend to fade, only to re-emerge later without any predictable pattern.
 
+**Rolling Risk**
 
 Standard deviation measures how much the monthly returns deviate from the average monthly return. It quantifies volatility—higher standard deviation means greater fluctuations in returns and a higher chance of significant deviations from the expected return. Rolling standard deviation applies this calculation over a moving time window, providing a dynamic view of how volatility changes over time.
 
 <img width="1333" height="711" alt="image" src="https://github.com/user-attachments/assets/4745afc1-07d9-4f2b-81ae-efe9d34dc75c" />
 
 As expected, the Nifty 50 exhibits the lowest volatility, resulting in comparatively stronger risk-adjusted returns
+
+**Drawdown**
 
 Drawdown is the maximum fall from the previous high
  <img width="1330" height="710" alt="image" src="https://github.com/user-attachments/assets/358e5b34-fd84-4609-ac79-7146e2432bf3" />
