@@ -20,6 +20,7 @@ While simple and intuitive, this approach is highly sensitive to the chosen time
 
 
 **2. Rolling Returns**
+
 Rolling returns offer a more robust view by calculating CAGR over every possible time window of a fixed duration (e.g., 3 years, 5 years) throughout the dataset. This answers the question:
 “How consistently has the index delivered returns over all possible 3-year (or 5-year) periods?”
 
