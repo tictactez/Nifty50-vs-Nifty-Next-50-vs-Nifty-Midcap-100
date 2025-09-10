@@ -39,6 +39,8 @@ This method smooths out short-term noise and reveals the consistency and reliabi
 
 Midcap and Nifty Next 50 indices don’t consistently outperform the Nifty 50. Their periods of outperformance are intermittent and unstable, lacking sustained momentum. At times, they lead, but those gains tend to fade, only to re-emerge later without any predictable pattern.
 
+<img width="1698" height="775" alt="image" src="https://github.com/user-attachments/assets/317407ec-d070-4d2c-909b-f18b0335c3d0" />
+
 
 
 
