@@ -56,7 +56,7 @@ Drawdown is the maximum fall from the previous high
  <img width="1330" height="710" alt="image" src="https://github.com/user-attachments/assets/358e5b34-fd84-4609-ac79-7146e2432bf3" />
 
 The nifty 50 does well on this count as well having a shallower drawdown.
-For exampe In 2020 COVID crash, Nifty 50 fell ~38%, while midcaps/smallcaps fell 45–55
+For example In 2020 COVID crash, Nifty 50 fell ~38%, while midcaps/smallcaps fell 45–55
 
 Hence The Nifty 50 serves as a solid core index for most investors. Those seeking higher return potential can consider some exposure to the Nifty Next 50 or Nifty Midcap 100, though this comes with higher risk.
 
