@@ -31,6 +31,7 @@ For instance, if data starts on Jan 1, 2000, the rolling 3-year windows would be
 11-12-2020 to 12-12-2023
 
 This method smooths out short-term noise and reveals the consistency and reliability of returns across market cycles.
+<img width="1258" height="691" alt="image" src="https://github.com/user-attachments/assets/650fc036-e338-46e1-9018-6d908fcf7ebc" />
 
 
 
