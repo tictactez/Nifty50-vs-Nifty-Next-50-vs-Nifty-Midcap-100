@@ -39,7 +39,14 @@ This method smooths out short-term noise and reveals the consistency and reliabi
 
 Midcap and Nifty Next 50 indices don’t consistently outperform the Nifty 50. Their periods of outperformance are intermittent and unstable, lacking sustained momentum. At times, they lead, but those gains tend to fade, only to re-emerge later without any predictable pattern.
 
-<img width="1698" height="775" alt="image" src="https://github.com/user-attachments/assets/317407ec-d070-4d2c-909b-f18b0335c3d0" />
+<img width="1333" height="711" alt="image" src="https://github.com/user-attachments/assets/4745afc1-07d9-4f2b-81ae-efe9d34dc75c" />
+
+
+Standard deviation measures how much the monthly returns deviate from the average monthly return. It quantifies volatility—higher standard deviation means greater fluctuations in returns and a higher chance of significant deviations from the expected return. Rolling standard deviation applies this calculation over a moving time window, providing a dynamic view of how volatility changes over time.
+
+As expected, the Nifty 50 exhibits the lowest volatility, resulting in comparatively stronger risk-adjusted returns
+
+ 
 
 
 
