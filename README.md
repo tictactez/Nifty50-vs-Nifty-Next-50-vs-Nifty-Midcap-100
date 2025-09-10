@@ -39,8 +39,6 @@ This method smooths out short-term noise and reveals the consistency and reliabi
 
 Midcap and Nifty Next 50 indices don’t consistently outperform the Nifty 50. Their periods of outperformance are intermittent and unstable, lacking sustained momentum. At times, they lead, but those gains tend to fade, only to re-emerge later without any predictable pattern.
 
-<img width="1333" height="711" alt="image" src="https://github.com/user-attachments/assets/4745afc1-07d9-4f2b-81ae-efe9d34dc75c" />
-
 
 Standard deviation measures how much the monthly returns deviate from the average monthly return. It quantifies volatility—higher standard deviation means greater fluctuations in returns and a higher chance of significant deviations from the expected return. Rolling standard deviation applies this calculation over a moving time window, providing a dynamic view of how volatility changes over time.
 
@@ -48,7 +46,13 @@ Standard deviation measures how much the monthly returns deviate from the averag
 
 As expected, the Nifty 50 exhibits the lowest volatility, resulting in comparatively stronger risk-adjusted returns
 
- 
+Drawdown is the maximum fall from the previous high
+ <img width="1330" height="710" alt="image" src="https://github.com/user-attachments/assets/358e5b34-fd84-4609-ac79-7146e2432bf3" />
+
+The nifty 50 does well on this count as well having a shallower drawdown.
+For exampe In 2020 COVID crash, Nifty 50 fell ~38%, while midcaps/smallcaps fell 45–55
+
+Hence The Nifty 50 serves as a solid core index for most investors. Those seeking higher return potential can consider some exposure to the Nifty Next 50 or Nifty Midcap 100, though this comes with higher risk.
 
 
 
