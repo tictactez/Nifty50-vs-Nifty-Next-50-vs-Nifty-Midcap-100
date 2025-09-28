@@ -1,4 +1,4 @@
- **A Comparative Evaluation of Nifty Indices**
+ **LONG TERM MULTI-INDEX RISK AND RETURN ANALYSIS: NIFTY 50, NEXT 50 & MIDCAP 100**
 
 This study evaluates the long-term performance of three major Indian equity indices using historical daily closing price data spanning 13 years (2012–2025):
 - Nifty 50: Represents the float-adjusted market capitalization of the 50 largest companies listed on the National Stock Exchange (NSE).
@@ -56,9 +56,9 @@ Drawdown is the maximum fall from the previous high
  <img width="1330" height="710" alt="image" src="https://github.com/user-attachments/assets/358e5b34-fd84-4609-ac79-7146e2432bf3" />
 
 The nifty 50 does well on this count as well having a shallower drawdown.
-For example In 2020 COVID crash, Nifty 50 fell ~38%, while midcaps/smallcaps fell 45–55
+For example In 2020 COVID crash, Nifty 50 fell ~38%, while midcaps/smallcaps fell 45–55%.
 
-Hence The Nifty 50 serves as a solid core index for most investors. Those seeking higher return potential can consider some exposure to the Nifty Next 50 or Nifty Midcap 100, though this comes with higher risk.
+Hence we can conclude that the Nifty 50 serves as a solid core index for most investors. Those seeking higher return potential can consider some exposure to the Nifty Next 50 or Nifty Midcap 100, though this comes with higher risk.
 
 
 
